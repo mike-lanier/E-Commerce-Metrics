@@ -17,4 +17,3 @@ events = Nov[['event_time','event_type','product_id','user_session', 'price']]
 events.to_csv('events.csv')
 user_sessions.to_csv('sessions.csv')
 products.to_csv('products.csv')
-
